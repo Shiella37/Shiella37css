@@ -1,3 +1,31 @@
-body {
-  background: orange;
+header {
+  background-color: blue;
+  padding: 14pix;
+  padding-bottom: 30pix;
+  height: 100;
+}
+header a{
+  color: white;
+  text-decoration: none;
+
+}
+
+h1{
+  text-align: center;
+  color: blue;
+  font-size: 6090pix;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+
+h2{
+  margin-bottom: 30pix;
+  font-size: 44pix;
+  border: ;
+}
+
+section {
+  font-family: sans-serif;
+  padding: 50pix;
+  border: 1pix solid;
 }
